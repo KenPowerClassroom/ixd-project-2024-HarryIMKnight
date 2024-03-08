@@ -1,4 +1,9 @@
 body {
     background-image: url("ASSETS\\IMAGES\\background.jpg");
     background-repeat: repeat-x;
+    margin-left: 100px;
   }
+
+nav{
+  margin-left: 0px;
+}
